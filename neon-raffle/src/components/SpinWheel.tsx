@@ -13,7 +13,7 @@ const COLORS = [
     '#0066cc', // Blue
     '#ff9000', // Orange
     '#009933', // Green
-    '#ffcc00', // Yellow
+    '#ff006e', // Yellow
     '#cc3333', // Red
     '#6600cc', // Purple    
     '#1d7a82',
